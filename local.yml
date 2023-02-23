@@ -12,6 +12,7 @@
         - tmux
         - vim-nox
         - net-tools
+        - python3-psutil
 
   - name: copy wallpaper file
     copy:
